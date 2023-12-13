@@ -1,0 +1,1 @@
+This project challenge was , organised by Codebasics, which focuses on analysing Telangana's growth across various districts and departments. The objective of this project is to provide valuable quantitative insights to the Telangana government, enabling data-informed decisions for further state development.
